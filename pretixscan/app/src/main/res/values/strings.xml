@@ -71,6 +71,12 @@
     <string name="welcome_text">pretixSCAN is a event entry app that you can use to validate tickets that you sold through pretix.</string>
     <string name="welcome_disclaimer1">I understand that personal data of attendees of my connected events will be stored on this device and I will secure the device properly.</string>
     <string name="cont">CONTINUE</string>
+    <string name="choose_sign_in">Sign in</string>
+    <string name="choose_check_in">Check in</string>
+    <string name="error_no_option_selected">Please select an option</string>
+    <string name="login_user_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
     <string name="hint_url">URL</string>
     <string name="hint_token">Token</string>
     <string name="dismiss">Dismiss</string>
