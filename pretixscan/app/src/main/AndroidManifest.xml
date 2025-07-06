@@ -72,6 +72,12 @@
             android:name=".ui.SetupActivity"
             android:label="@string/headline_setup" />
         <activity
+            android:name=".ui.ChooseModeActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".ui.LoginActivity"
+            android:label="@string/app_name" />
+        <activity
             android:name=".ui.info.EventinfoActivity"
             android:label="@string/action_label_statistics"
             android:parentActivityName=".ui.MainActivity" />

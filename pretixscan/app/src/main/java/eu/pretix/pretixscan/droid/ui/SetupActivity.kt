@@ -100,7 +100,7 @@ class SetupActivity : AppCompatActivity(R.layout.activity_setup), SetupCallable 
     }
 
     override fun onSuccessfulSetup() {
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, ChooseModeActivity::class.java)
         startActivity(intent)
         finish()
     }
